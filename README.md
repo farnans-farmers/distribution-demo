@@ -1,4 +1,4 @@
-# distribution-demo
+# Distribution Demo
 Code for the distribution demo used in the genetics presentation
 
 ## Controls
