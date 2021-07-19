@@ -6,3 +6,4 @@ Code for the distribution demo used in the genetics presentation
   * Must be reset between runs
 * Press U to run uniform distribution
 * Press N to run normal distribution
+* Press ESC to quit
